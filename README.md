@@ -19,4 +19,10 @@ Post with [#d_Art](https://twitter.com/hashtag/d_Art) so everyone can appreciate
 
 
 
+## Mine
 
+<div>
+<img width="420" alt="Screenshot 2019-11-22 at 18 51 24" src="https://user-images.githubusercontent.com/20175372/69451327-62de2000-0d5f-11ea-9762-cddda5adfb59.png">
+<img width="420" alt="Screenshot 2019-11-22 at 18 53 51" src="https://user-images.githubusercontent.com/20175372/69451328-62de2000-0d5f-11ea-85e9-cf90e124a9ff.png">
+<img width="420" alt="Screenshot 2019-11-22 at 18 53 12" src="https://user-images.githubusercontent.com/20175372/69451329-62de2000-0d5f-11ea-9662-cf42aead29ed.png">
+</div>
